@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "SP Responsive",
+  "version": "1.0.0",
+  "action": {
+    "default_icon": {
+      "16": "images/device_16.png",
+      "24": "images/device_24.png",
+      "32": "images/device_32.png"
+    },
+    "default_title": "SP Responsive kit",
+    "default_popup": "index.html"
+  },
+  "description": "An extension which makes easy to test UI within multiple devices at same time.",
+  "icons": {
+    "16": "images/device_16.png",
+    "24": "images/device_24.png",
+    "32": "images/device_32.png",
+    "128": "images/device_128.png"
+  },
+  "permissions": ["notifications", "tabs", "storage"],
+  "author": "echonabin@gmail.com",
+  "minimum_chrome_version": "107",
+  "short_name": "SPRS",
+  "version_name": "1.0 beta"
+}
