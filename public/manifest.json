@@ -18,6 +18,10 @@
     "32": "images/device_32.png",
     "128": "images/device_128.png"
   },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "devtools_page": "index.html",
   "permissions": ["notifications", "tabs", "storage"],
   "author": "echonabin@gmail.com",
   "minimum_chrome_version": "107",
